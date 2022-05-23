@@ -1,1 +1,1 @@
-![ALX](../.github/banner.png)
+![ALX](/.github/banner.png)
