@@ -1,1 +1,0 @@
-![ALX](./.github/banner.png)
